@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/alanriquelmee/alanriquelmee/blob/main/banner.png" alt="Alan Riquelme Banner"/>
+  <img src="https://github.com/alanriquelmee/alanriquelmee/blob/main/banner_alan.png" alt="Alan Riquelme Banner"/>
 </p>
 
 ---
